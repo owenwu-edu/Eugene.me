@@ -8,7 +8,8 @@ Adobe PS/AI, Figma, Framer...
 
 ## Demo
 
-    #github
+github
+
     https://github.com/owenwu-edu/Eugene.me.git
 
 ## 🔗 Links
